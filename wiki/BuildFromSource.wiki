@@ -2,6 +2,6 @@ How to build Probatron.NET from source
 
 = Introduction =
 
-  # Download the source code from [http://foo.com here].
+  # Download the source code from [http://probatrondotnet.googlecode.com/files/Probatron.NET-0.7.0-src.zip here].
   # Download SAXON for .NET from [http://prdownloads.sourceforge.net/saxon/saxonb9-1-0-6n.zip here].
   # Create a new project in your favourite .NET IDE and import the source code. The required dependencies are included in the SAXON for .NET distribution.
